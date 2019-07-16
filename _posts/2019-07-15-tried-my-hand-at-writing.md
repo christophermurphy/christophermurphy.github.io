@@ -13,6 +13,8 @@ BTW, I am trying out making amazon affiliate links...
 <iframe style="float:right;width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=chrismurphysb-20&marketplace=amazon&region=US&placement=B07TWK3FRY&asins=B07TWK3FRY&linkId=576613ea35c7c2bcffea34d87a4ecd39&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
     </iframe>
 
+Now, I know what you are thinking... yes, that is me on the diving board on the cover.
+
 The basic premise of the book is that we, as Americans, complain and complain and complain that our government is inefficient and slow and cumbersome and keeps going around in circles (kinda like this sentence), and we just want someone to come in and make it run the way it is supposed to.
 
 The problem is that it is running just as it was designed to run.
