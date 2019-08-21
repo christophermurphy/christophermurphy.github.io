@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TNReady Scores Were Released for 2019"
-date: 2019-07-15
+date: 2019-08-21
 ---
 
 [TNReady](https://www.tn.gov/education/assessment/tnready.html) is the state assessment test for Tennessee public school students.
